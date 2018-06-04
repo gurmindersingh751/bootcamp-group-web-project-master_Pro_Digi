@@ -1,1 +1,2 @@
-# bootcamp-group-web-project-master
+# bootcamp-group-web-project
+This repository is for Practical Development Course focused on web.
